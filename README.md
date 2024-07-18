@@ -1,6 +1,6 @@
-Claro, aqui está um exemplo de um arquivo `README.md` para o projeto que criamos. Este arquivo explica como configurar e executar o projeto, bem como as funcionalidades da API.
 
-```markdown
+
+
 # DynamoDbCrudApi
 
 Este projeto é uma API RESTful construída com .NET 7 que realiza operações CRUD (Create, Read, Update, Delete) em uma tabela DynamoDB. A API é configurada para funcionar com o AWS SDK para .NET e utiliza o `DynamoDBContext` para interagir com o DynamoDB.
@@ -22,7 +22,6 @@ Este projeto é uma API RESTful construída com .NET 7 que realiza operações C
 
 ### Passo 1: Clonar o Repositório
 
-```bash
 git clone https://github.com/seu-usuario/DynamoDbCrudApi.git
 cd DynamoDbCrudApi
 ```
