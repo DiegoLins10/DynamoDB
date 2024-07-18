@@ -314,9 +314,7 @@ namespace DynamoDbCrudApi.Controllers
 
 Sinta-se à vontade para contribuir com este projeto, enviando pull requests ou relatando problemas no repositório.
 
-## Licença
 
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais informações.
 ```
 
 Este `README.md` fornece uma visão geral abrangente do projeto, instruções para configuração, detalhes dos endpoints da API e uma descrição da estrutura do código. Certifique-se de ajustar os links, o nome do repositório e outras informações específicas conforme necessário.
