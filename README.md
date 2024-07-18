@@ -24,7 +24,7 @@ Este projeto é uma API RESTful construída com .NET 7 que realiza operações C
 
 git clone https://github.com/seu-usuario/DynamoDbCrudApi.git
 cd DynamoDbCrudApi
-```
+
 
 ### Passo 2: Configurar Dependências
 
